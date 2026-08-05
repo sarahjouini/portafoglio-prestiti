@@ -1,0 +1,61 @@
+id_prestito,id_cliente,importo,stato
+101,4,149182,insolvente
+102,14,482525,ripagato
+103,16,168338,ripagato
+104,15,194064,ripagato
+105,8,224020,ripagato
+106,14,108806,in corso
+107,23,410126,insolvente
+108,25,383133,ripagato
+109,8,100982,in corso
+110,21,131626,ripagato
+111,16,129176,ripagato
+112,13,403422,ripagato
+113,18,228126,ripagato
+114,15,228969,insolvente
+115,21,132409,ripagato
+116,24,33419,in corso
+117,25,453852,in corso
+118,13,263618,ripagato
+119,9,255310,insolvente
+120,15,60015,insolvente
+121,13,258550,ripagato
+122,1,132096,ripagato
+123,25,117059,ripagato
+124,7,195340,ripagato
+125,9,120687,ripagato
+126,24,360083,in corso
+127,1,421357,in corso
+128,12,221428,ripagato
+129,8,115878,ripagato
+130,24,212982,insolvente
+131,11,459260,ripagato
+132,19,208286,ripagato
+133,17,259002,ripagato
+134,8,260396,insolvente
+135,3,174899,ripagato
+136,3,459036,in corso
+137,1,334767,in corso
+138,5,484950,ripagato
+139,10,347594,in corso
+140,7,365570,ripagato
+141,9,389989,in corso
+142,7,425515,in corso
+143,9,53585,in corso
+144,8,381369,ripagato
+145,12,74044,in corso
+146,2,445773,ripagato
+147,1,452296,ripagato
+148,16,119556,ripagato
+149,23,12693,in corso
+150,23,498219,in corso
+151,24,367403,ripagato
+152,5,253307,in corso
+153,3,210235,ripagato
+154,12,35939,in corso
+155,8,452141,ripagato
+156,22,446157,in corso
+157,3,162906,ripagato
+158,1,28047,insolvente
+159,3,298249,ripagato
+160,5,85766,ripagato
